@@ -1,0 +1,3 @@
+string type
+PickupDetails pickup_details
+DeliveryDetails delivery_details
