@@ -29,12 +29,13 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DispenserLayout.msg"
   "msg/ConveyorLayout.msg"
 
+  "msg/GetMass.msg"
+  "msg/CurrentMass.msg"
   "msg/ConveyorMove.msg"
   "msg/ConveyorInterrupt.msg"
   "msg/DispenserDispense.msg"
   "msg/DispenserDispensed.msg"
-  "msg/GetMass.msg"
-  "msg/CurrentMass.msg"
+  "msg/PID.msg"
 )
 
 
