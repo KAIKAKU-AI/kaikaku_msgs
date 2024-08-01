@@ -34,6 +34,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ConveyorMove.msg"
   "msg/ConveyorInterrupt.msg"
   "msg/DispenserDispense.msg"
+  "msg/DispenserMove.msg"
   "msg/DispenserDispensed.msg"
   "msg/PID.msg"
 )
