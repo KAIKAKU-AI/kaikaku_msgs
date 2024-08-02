@@ -1,1 +1,1 @@
-int16 amount
+float amount
