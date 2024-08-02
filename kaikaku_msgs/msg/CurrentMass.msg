@@ -1,1 +1,1 @@
-float amount
+float32 amount
