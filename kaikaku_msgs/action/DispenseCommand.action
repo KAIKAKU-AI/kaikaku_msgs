@@ -1,5 +1,5 @@
-float mass_to_dispense
+float32 mass_to_dispense
 ---
-float mass_dispensed
+float32 mass_dispensed
 ---
-float difference
+float32 difference
