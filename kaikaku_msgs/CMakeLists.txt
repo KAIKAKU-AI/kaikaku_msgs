@@ -36,7 +36,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DispenserDispense.msg"
   "msg/DispenserMove.msg"
   "msg/DispenserDispensed.msg"
-  "msg/PID.msg"
+  "msg/IngredientParameters.msg"
 )
 
 
