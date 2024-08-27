@@ -1,3 +1,4 @@
+int32 tolerance
 string control_type
 int16 velocity
 float32 kp
