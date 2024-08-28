@@ -1,4 +1,3 @@
 int16 amount
-int16 tolerance
 int16 timeout
 IngredientParameters params
