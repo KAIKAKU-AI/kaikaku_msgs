@@ -1,3 +1,5 @@
 # Search for ingredients inside CoreData/Ingredients
+
 string[] ingredients
 ---
+CallStatus status
