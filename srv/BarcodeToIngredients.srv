@@ -1,0 +1,6 @@
+# This service is called by the scanner_manager and triggers a LineItemRecipe to be sent to fusion_manager
+
+BarcodeScan barcode
+---
+CallStatus status
+

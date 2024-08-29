@@ -37,6 +37,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DispenserMove.msg"
   "msg/DispenserDispensed.msg"
   "msg/IngredientParameters.msg"
+
+  "msg/CallStatus.msg"
+  "srv/BarcodeToIngredients.srv"
 )
 
 
