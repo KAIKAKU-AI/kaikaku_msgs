@@ -38,8 +38,10 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/DispenserDispensed.msg"
   "msg/IngredientParameters.msg"
 
+  # Cloud Services .msg and .srv
   "msg/CallStatus.msg"
   "srv/BarcodeToIngredients.srv"
+  "srv/FetchIngredients.srv"
 )
 
 
