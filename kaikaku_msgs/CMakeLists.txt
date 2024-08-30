@@ -19,7 +19,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
 
   "msg/PrintJob.msg"
   "msg/LineItemRecipe.msg"
-  "msg/Ingredient.msg"
+  "msg/RecipeIngredient.msg"
 
   "msg/BarcodeScan.msg"
   "msg/ScannerStatus.msg"

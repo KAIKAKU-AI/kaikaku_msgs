@@ -1,2 +1,2 @@
 string id
-Ingredient[] ingredients
+RecipeIngredient[] ingredients
