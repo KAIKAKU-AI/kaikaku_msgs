@@ -1,0 +1,6 @@
+# Service call to fetch FusionLayout from CosmosDB CoreData/Locations
+
+string location_id
+string partition_key
+---
+FusionLayout fusion_layout

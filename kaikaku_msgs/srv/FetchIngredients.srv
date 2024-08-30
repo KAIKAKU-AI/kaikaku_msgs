@@ -1,4 +1,4 @@
-# Search for ingredients inside CoreData/Ingredients
+# Service call to fetch ingredients from CosmosDB CoreData/Ingredients
 
 string[] ingredients
 ---
