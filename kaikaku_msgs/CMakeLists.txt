@@ -41,7 +41,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   # Cloud Services .msg and .srv
   "msg/CallStatus.msg"
   "srv/BarcodeToIngredients.srv"
-  "srv/FetchIngredients.srv",
+  "srv/FetchIngredients.srv"
   "srv/FetchFusionLayout.srv"
 )
 
