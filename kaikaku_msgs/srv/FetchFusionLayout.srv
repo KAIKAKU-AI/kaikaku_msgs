@@ -4,3 +4,4 @@ string location_id
 string partition_key
 ---
 FusionLayout fusion_layout
+string[] ingredient_names
