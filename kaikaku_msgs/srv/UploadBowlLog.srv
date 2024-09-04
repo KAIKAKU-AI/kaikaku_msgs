@@ -1,0 +1,5 @@
+string bowl_item_uid
+string json_data
+---
+bool success
+string message

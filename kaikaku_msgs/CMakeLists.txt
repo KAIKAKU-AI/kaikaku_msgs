@@ -43,6 +43,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/BarcodeToIngredients.srv"
   "srv/FetchIngredients.srv"
   "srv/FetchFusionLayout.srv"
+  "srv/UploadBowlLog.srv"
 )
 
 
