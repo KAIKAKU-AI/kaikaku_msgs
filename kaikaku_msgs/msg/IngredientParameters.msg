@@ -1,5 +1,5 @@
 string name
-int16 tolerance
+int16 offset
 string control_type
 int16 velocity
 float32 kp
